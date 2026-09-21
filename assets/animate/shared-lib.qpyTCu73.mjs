@@ -1,0 +1,2 @@
+import{t as e}from"/assets/animate/rolldown-runtime.bU1q7LpP.mjs";function t(e,t){return{description:`UX/ UI Designer | AI Specialist | Photographer`,favicon:(location.origin+"/assets/images/image-62679e95.png"),robots:`max-image-preview:large`,socialImage:(location.origin+"/assets/images/image-6b768ef7.jpg"),title:`Isaac Grove`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.qpyTCu73.mjs.map
